@@ -74,13 +74,6 @@
   </div>    
 </details>
 
-  
-<div>
-<samp>
-<h2 align="center"> just an ascii art of me holding an umbrella </h2>
-</samp>
-</div>
-
 </details>
 <br/>
 </details> 
