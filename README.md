@@ -71,6 +71,10 @@
         <p align="center">
           <a href="https://github.com/BeluLabs/">
           <img width="50%" src="https://github-readme-stats.vercel.app/api?username=BeluLabs&show_icons=true&theme=gruvbox&hide_border=true" />
+            <p align="center">
+  <img src="https://streak-stats.demolab.com/?user=BeluLabs&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+</p>
+
   </div>    
 </details>
 
