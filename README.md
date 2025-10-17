@@ -3,7 +3,7 @@
 
 <div align="center">
 <h1 align="center">Hi, I'm Boris</h1>
-<h4 align="center">A self-taught web development student and also an engineering student at the Peruvian University of Applied Sciences. See my <a href="https://cv.boriscucho.dev" target="_blank">resume</a> for more</h4>
+<h4 align="center">A self-taught web development student and also an engineering student at the Peruvian University of Applied Sciences. See my <a href="https://boriscucho.dev" target="_blank">web</a> for more</h4>
 </div>
 
 -----
