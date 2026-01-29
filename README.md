@@ -40,37 +40,3 @@
   </p>
   </samp>
 </div>
-
-<!-- -->
-
-  <div>
-  <samp>
-    <h2 align="center">💻 Github stats </h2>
-      <br/>
-            <p align="center">
-        <a href="https://github.com/BeluLabs/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeluLabs&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-          alt="BeluLabs :: overall Top Langs " /></a>
-      </p>
-        <p align="center">
-          <a href="https://github.com/BeluLabs/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeluLabs&theme=gruvbox&layout=compact&hide_border=true"
-          alt="BeluLabs :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BeluLabs&theme=gruvbox&layout=compact&hide_border=true"
-          alt="BeluLabs :: Top Langs by commit" />
-          </a>
-        </p>
-</div>
-
-<!-- -->
-
-<div>
-   <samp>
-  <h2 align="center">Other stasistics</h2>
-        <p align="center">
-          <a href="https://github.com/BeluLabs/">
-          <img width="50%" src="https://github-readme-stats.vercel.app/api?username=BeluLabs&show_icons=true&theme=gruvbox&hide_border=true" />
-            <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=BeluLabs&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-</p>
-</div>
